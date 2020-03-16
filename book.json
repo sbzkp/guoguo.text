@@ -1,0 +1,23 @@
+{
+    "plugins": [ 
+        "pageview-count",
+        "change_girls",
+        "pageview-count",
+        "popup",
+        "favicon-absolute"
+    ],
+    "pluginsConfig": {
+        "donate": {
+            "wechat": "/images/wetchat.jpeg",
+            "alipay": "/images/alipay.jpeg",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "favicon-absolute":{
+            "favicon": "/favicon.ico",
+            "appleTouchIconPrecomposed152": "/apple-touch-icon-precomposed-152.png"
+        }
+    }
+}
