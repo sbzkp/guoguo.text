@@ -1,0 +1,23 @@
+ 
+html,body{
+    background: #fff;
+  }
+
+  .book-summary ul.summary{
+    margin-left: 10px;
+  }
+  
+  .book-summary ul.summary li{
+    padding-left: 30px;
+  }
+  .book-summary ul.summary li.header{
+    font-weight: 600!important;
+    font-size: 18px!important;
+    color: black!important;
+  }
+  
+
+  
+  
+   
+  
